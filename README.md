@@ -1,5 +1,5 @@
 # Canvas Cache
-An image cache for canvas and key-value store for [ImageData](https://developer.mozilla.org/en-US/docs/Web/API/ImageData) objects. Usefull for fast draws in browser games with the `putImageData()` method.
+An image cache for canvas and key-value store for [ImageData](https://developer.mozilla.org/en-US/docs/Web/API/ImageData) objects. Useful for fast draws in browser games with the `putImageData()` method.
 
 ## Install
 ```sh
