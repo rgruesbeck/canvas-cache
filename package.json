@@ -1,6 +1,6 @@
 {
   "name": "canvas-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an image cache for canvas.",
   "main": "index.js",
   "scripts": {
