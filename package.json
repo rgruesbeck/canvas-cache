@@ -1,0 +1,16 @@
+{
+  "name": "canvas-cache",
+  "version": "1.0.0",
+  "description": "an image cache for canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "image",
+    "games"
+  ],
+  "author": "Ron Gruesbeck",
+  "license": "MIT"
+}
